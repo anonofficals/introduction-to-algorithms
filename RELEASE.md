@@ -46,7 +46,8 @@ For official access to the textbook, please refer to the following authorized so
 
 
 Additionally, the PDF version of the textbook is available for direct download:  
-[Download PDF](https://github.com/anonofficals/introduction-to-algorithms/raw/main/Release%20Files/Introduction%20to%20Algorithms%20(3r%20-%20Cormen,%20Thomas%20H.%20&%20Leiserson,_5373.pdf)
+[**Download PDF**](https://github.com/anonofficals/introduction-to-algorithms/raw/main/Release%20Files/Introduction%20to%20Algorithms%20(3rd%20Edition)%20-%20Cormen%20et%20al..pdf)
+
 
 No pirated or unauthorized copies are endorsed or linked herein.
 
@@ -63,6 +64,6 @@ Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). *Introductio
 ## Release Maintainer
 
 This repository is maintained by the project contributors at:  
-[https://github.com/anonofficals/introduction-to-algorithms](https://github.com/anonofficals/introduction-to-algorithms)
+[Introduction TO Algorithms](https://github.com/anonofficals/introduction-to-algorithms)
 
 Prepared for repository distribution and academic documentation — October 2025.

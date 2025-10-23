@@ -44,12 +44,9 @@ This repository and its contents are distributed in accordance with the copyrigh
 
 For official access to the textbook, please refer to the following authorized sources:
 
-- [The MIT Press](https://mitpress.mit.edu/9780262033848/introduction-to-algorithms/)
-- [Amazon](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
-- [Google Books](https://books.google.com/books/about/Introduction_to_Algorithms.html?id=NLngYyWFl_YC)
 
-Additionally, a repository release file containing the PDF is available for download:  
-[Download release.zip](https://github.com/anonofficals/introduction-to-algorithms/raw/main/release.zip)
+Additionally, the PDF version of the textbook is available for direct download:  
+[Download PDF](https://github.com/anonofficals/introduction-to-algorithms/raw/main/Release%20Files/Introduction%20to%20Algorithms%20(3r%20-%20Cormen,%20Thomas%20H.%20&%20Leiserson,_5373.pdf)
 
 No pirated or unauthorized copies are endorsed or linked herein.
 
